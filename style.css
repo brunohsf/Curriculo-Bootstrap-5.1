@@ -10,6 +10,7 @@
 div.container{
     background-color: white;
     box-shadow: 0 0 8px black;
+    
 }
 
 body{
@@ -22,3 +23,8 @@ section.row {
     padding-bottom: 5px;
 }
 
+
+#ocupacao{
+    text-indent: 10px;
+    font-style: italic;
+}
