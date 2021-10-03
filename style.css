@@ -10,15 +10,25 @@
 div.container{
     background-color: white;
     box-shadow: 0 0 8px black;
+    
 }
 
 body{
     background: url("https://picsum.photos/1920/1080");
 }
 
-section.row {
-    border-bottom: dashed thin gray;
-    padding-top: 5px;
-    padding-bottom: 5px;
+aside {
+    border-right: 1px solid thin lightgrey;    
+    margin-bottom: 15px;
 }
 
+
+#ocupacao{
+    text-indent: 10px;
+    font-style: italic;
+}
+
+
+#resumo {
+    text-align: justify;
+}
