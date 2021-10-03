@@ -17,10 +17,9 @@ body{
     background: url("https://picsum.photos/1920/1080");
 }
 
-section.row {
-    border-bottom: dashed thin gray;
-    padding-top: 5px;
-    padding-bottom: 5px;
+aside {
+    border-right: 1px solid thin lightgrey;    
+    margin-bottom: 15px;
 }
 
 
