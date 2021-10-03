@@ -28,3 +28,8 @@ section.row {
     text-indent: 10px;
     font-style: italic;
 }
+
+
+#resumo {
+    text-align: justify;
+}
